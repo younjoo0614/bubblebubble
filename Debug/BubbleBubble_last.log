@@ -1,0 +1,12 @@
+﻿  arrow.cpp
+  bubble.cpp
+  BubbleBubble.cpp
+  detectstop.cpp
+D:\이윤주\서울대\2학년 1학기\프로그래밍 방법론\BubbleBubble_last\detectstop.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\이윤주\서울대\2학년 1학기\프로그래밍 방법론\BubbleBubble_last\detectstop.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  light.cpp
+  material.cpp
+  time_bar.cpp
+  Vector3f.cpp
+  코드를 생성하고 있습니다...
+  BubbleBubble_last.vcxproj -> D:\이윤주\서울대\2학년 1학기\프로그래밍 방법론\BubbleBubble_last\Debug\BubbleBubble_last.exe

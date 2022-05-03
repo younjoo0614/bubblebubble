@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleBubble_last", "BubbleBubble_last.vcxproj", "{98867594-65E7-4DEA-9D8C-9D1E803A21D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Debug|x64.ActiveCfg = Debug|x64
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Debug|x64.Build.0 = Debug|x64
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Debug|x86.Build.0 = Debug|Win32
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Release|x64.ActiveCfg = Release|x64
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Release|x64.Build.0 = Release|x64
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Release|x86.ActiveCfg = Release|Win32
+		{98867594-65E7-4DEA-9D8C-9D1E803A21D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0B3337-265F-420F-A211-C380A3A79D74}
+	EndGlobalSection
+EndGlobal
